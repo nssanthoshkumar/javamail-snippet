@@ -1,2 +1,2 @@
 ## Code Sinppet to send email
-Download and Run fakeSMTP jar. Then start the server before running the test.
+Run /devTestSetup/fakeSMTP-2.0.jar file and start the server before running the test.
